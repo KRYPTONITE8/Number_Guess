@@ -1,4 +1,3 @@
-/* Reset some default styles */
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +5,7 @@
 }
 
 body {
-  background-color: #F44336; /* Vibrant background color */
+  background-color: #F44336;
   color: #FFF;
   font-family: Arial, sans-serif;
   margin: 0;
@@ -14,7 +13,7 @@ body {
 }
 
 nav {
-  background-color: #FF5722; /* Vibrant navigation background color */
+  background-color: #FF5722;
   padding: 10px;
   text-align: center;
 }
@@ -26,23 +25,23 @@ nav a {
 }
 
 #wrapper {
-  background-color: #FF9800; /* Vibrant box background color */
+  background-color: #FF9800;
   text-align: center;
   margin-top: 20px;
-  padding: 20px; /* Add padding to create a box */
-  border-radius: 10px; /* Add rounded corners */
+  padding: 20px;
+  border-radius: 10px;
 }
 
 h1 {
   font-size: 24px;
   margin-bottom: 10px;
-  color: #fff; /* Vibrant text color */
+  color: #fff; 
 }
 
 p {
   font-size: 16px;
   margin-bottom: 10px;
-  color: #fff; /* Vibrant text color */
+  color: #fff;
 }
 
 form.form {
@@ -57,12 +56,12 @@ input.guessField {
   width: 80px;
   padding: 10px;
   font-size: 16px;
-  border: 2px solid #FF5722; /* Vibrant border color */
+  border: 2px solid #FF5722;
   border-radius: 5px;
 }
 
 input.guessSubmit {
-  background-color: #4CAF50; /* Vibrant button background color */
+  background-color: #4CAF50;
   color: #FFF;
   border: none;
   padding: 10px 20px;
